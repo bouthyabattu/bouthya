@@ -15,10 +15,15 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 - 🔭 I'm currently working on **Data Science and Business Analytics**
+  
 - 🌱 I'm currently learning **Advanced Data Science**
+  
 - 👨‍💻 All my projects are available at [LinkedIn](https://www.linkedin.com/in/bouthya-battu/)
+  
 - 💬 Ask me about **Data Science, Business Intelligence**
+  
 - 📫 How to reach me **bouthyabattu07@gmail.com**
+  
 - ⚡ Fun fact **I love turning data into stories**
 
 <br clear="right"/>
