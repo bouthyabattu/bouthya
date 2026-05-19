@@ -16,6 +16,8 @@ Aspiring Data Scientist | ML Enthusiast | DSA Learner
 </p>
 
 ---
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=Sukumar-Elley&label=Profile%20views&color=blueviolet&style=flat" /> </p>
+
 
 ## 🙋‍♂️ About Me
 
