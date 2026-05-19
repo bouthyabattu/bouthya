@@ -51,8 +51,9 @@ Aspiring Data Scientist | ML Enthusiast | DSA Learner
 
 ## 🛠️ Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,ts,html,mysql,git,github,vscode,tensorflow,sklearn" /> </p>
-
+<p align="center">   <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css,docker,firebase,flask,flutter,git,github,googlecloud,java,javascript,kafka,mongodb,mysql,nodejs,postgresql,python,pytorch,r,react,rust,scala,scikitlearn,tailwindcss,tensorflow,vercel,vscode" /> 
+ </p>
+ 
 ### 💻 Languages
 
 <div align="center">
