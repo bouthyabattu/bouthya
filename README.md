@@ -54,6 +54,7 @@ Aspiring Data Scientist | ML Enthusiast | DSA Learner
 ## 🛠️ Tech Stack
 
 <p align="center">   <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css,docker,firebase,flask,flutter,git,github,googlecloud,java,javascript,kafka,mongodb,mysql,nodejs,postgresql,python,pytorch,r,react,rust,scala,scikitlearn,tailwindcss,tensorflow,vercel,vscode" /> 
+ 
  </p>
  
 ### 💻 Languages
@@ -89,10 +90,11 @@ Aspiring Data Scientist | ML Enthusiast | DSA Learner
 </div>
 
 
+
 <div align="center">
 
   <img src="https://streak-stats.demolab.com/?user=bouthyabattu&theme=dark&hide_border=false" width="55%" />
-  
+
 </div>
 
 ## 📈 Contribution Graph
