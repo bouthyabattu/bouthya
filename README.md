@@ -1,121 +1,237 @@
-<!-- Top Full-width Header Capsule -->
-<div>
- <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Bouthya%20Battu&fontSize=60&fontColor=FFFFFF&color=gradient" />
-</div>
-
-<!-- Top border below header -->
-<div style="border-top: 4px solid #4B0082; margin-bottom: 20px;"></div>
+<h1 align="center">Hi 👋, I'm Bouthya Battu</h1>
 
 <h3 align="center">
-Aspiring Data Scientist | ML Enthusiast | DSA Learner
+  Aspiring Data Analyst • ML Enthusiast • DSA Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights;Java+%7C+Python+%7C+Machine+Learning;Data+Analytics+%7C+Power+BI;Learning+DSA+and+Advanced+ML" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Insights;Data+Analytics+%7C+Business+Intelligence;Python+%7C+Java+%7C+Machine+Learning;Power+BI+%7C+SQL+%7C+Data+Visualization;Learning+DSA+%26+Advanced+Machine+Learning" alt="Typing SVG" />
+</p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bouthyabattu&label=Profile%20Views&color=00F5D4&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=Sukumar-Elley&label=Profile%20views&color=blueviolet&style=flat" /> </p>
 
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 🙋‍♂️ About Me
+### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-- 🔭 I'm currently working on **Data Science and Business Analytics**
+- 🔭 Currently working on **Data Science and Business Analytics**
   
-- 🌱 I'm currently learning **Advanced Data Science**
+- 🌱 Currently learning **Advanced Data Science and Machine Learning**
   
-- 👨‍💻 All my projects are available at [LinkedIn](https://www.linkedin.com/in/bouthya-battu/)
+- 📊 Interested in **Data Analytics, Business Intelligence & ML**
   
-- 💬 Ask me about **Data Science, Business Intelligence**
+- 💬 Ask me about **Python, Data Science, Business Intelligence & SQL**
   
-- 📫 How to reach me **bouthyabattu07@gmail.com**
+- 📫 Reach me at **bouthyabattu07@gmail.com**
   
-- ⚡ Fun fact **I love turning data into stories**
+- ⚡ Fun fact: **I love turning data into stories**
+  
+- 🎯 Goal: **Build data-driven solutions that create real-world impact**
 
 <br clear="right"/>
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bouthya-battu/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bouthyabattu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouthyabattu07@gmail.com)
+<a href="https://www.linkedin.com/in/bouthya-battu/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
-</div>
+<a href="https://instagram.com/bouthya_battu/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+
+<a href="https://github.com/bouthyabattu" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+</a>
+
+<a href="mailto:bouthyabattu07@gmail.com">
+  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
+</a>
+
+<a href="https://x.com/bouthya" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">   <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css,docker,firebase,flask,flutter,git,github,googlecloud,java,javascript,kafka,mongodb,mysql,nodejs,postgresql,python,pytorch,r,react,rust,scala,scikitlearn,tailwindcss,tensorflow,vercel,vscode" /> 
- 
- </p>
- 
-### 💻 Languages
+### 💻 Programming Languages
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,python,r,scala" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 📊 Data Science & Machine Learning
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow" />
+</p>
 
-### ⚙️ Frameworks & Tools
+### 🌐 Web Development
 
-<div align="center">
-  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,flask,flutter,nodejs,react,tailwind" />
+</p>
 
-</div>
+### 🗄️ Databases & Cloud
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql,aws,googlecloud" />
+</p>
 
-<div align="center">
-  
-<img src="https://github-readme-stats.shion.dev/api?username=bouthyabattu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="55%" />
-  
-</div>
+### ⚙️ Tools & DevOps
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,kafka,vercel,vscode" />
+</p>
 
+---
 
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=bouthyabattu&theme=dark&hide_border=false" width="55%" />
-
-</div>
-
-## 📈 Contribution Graph
+## 📊 GitHub Statistics
 
 <p align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bouthya-Battu&theme=react-dark&hide_border=true" width="95%" />
-
+<img src="https://github-readme-stats.shion.dev/api?username=bouthyabattu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="60%" />
+  
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=bouthyabattu&theme=dark&hide_border=false"
+    width="60%"
+  />
+</p>
+
 
 <h3 align="left">🔥 Most Used Languages</h3>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bouthyabattu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="55%" /> 
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bouthyabattu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%" /> 
 
 </p>
 
 ---
 
-<div align="center">
+## 📈 Contribution Activity
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bouthyabattu&theme=react-dark&hide_border=true&area=true&custom_title=bouthya%20battu's%20Contribution%20Graph"
+    width="100%"
+    alt="Contribution Graph"
+  />
+</p>
 
-</div>
+---
+
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bouthyabattu/bouthyabattu/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bouthyabattu/bouthyabattu/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/bouthyabattu/bouthyabattu/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+<h2>🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img
+  src="https://github-profile-trophy.vercel.app/?username=bouthyabattu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"
+  alt="GitHub Trophies"
+/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Sentiment Analysis on Social Media
+
+Machine Learning and NLP project that analyzes public opinions and extracts meaningful sentiment patterns from social media data.
+
+**Tech:** Python • NLP • Machine Learning • Pandas
+
+</td>
+
+<td width="50%">
+
+
+### 📊 Diwali Sales Data Analysis
+
+Exploratory Data Analysis project focused on identifying customer behavior, purchasing patterns and festive sales trends.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn
+
+</td>
+
+<td width="50%">
+
+### 📈 Data Analytics Projects
+
+A growing collection of projects focused on transforming raw datasets into actionable business insights through analytics and visualization.
+
+**Tech:** Python • SQL • Power BI • Data Visualization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Learning Journey
+
+```text
+Data Analytics
+      │
+      ├── Python
+      ├── SQL
+      ├── Excel
+      └── Power BI
+             │
+             ▼
+      Data Visualization
+             │
+             ▼
+      Machine Learning
+             │
+             ├── Supervised Learning
+             ├── Unsupervised Learning
+             ├── NLP
+             └── Model Evaluation
+                    │
+                    ▼
+              Advanced ML
+                    │
+                    ▼
+              Real-World AI
