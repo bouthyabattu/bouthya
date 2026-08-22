@@ -197,14 +197,6 @@ Exploratory Data Analysis project focused on identifying customer behavior, purc
 
 <td width="50%">
 
-### 📈 Data Analytics Projects
-
-A growing collection of projects focused on transforming raw datasets into actionable business insights through analytics and visualization.
-
-**Tech:** Python • SQL • Power BI • Data Visualization
-
-</td>
-</tr>
 </table>
 
 ---
